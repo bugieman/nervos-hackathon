@@ -3,8 +3,7 @@ TASK 1
 ![image](https://user-images.githubusercontent.com/4203063/130339622-1d2e8dca-2dda-4cda-9e6b-69d64f6519c1.png)
 
 2. A link to the Layer 1 address you funded on the Testnet Explorer.
-
-[Layer 1 address
+ [Layer 1 address
 ](explorer.nervos.org/aggron/address/ckt1qyqwmemarcr7whw92x2mxagz5kves7l5kyrs3lrdlf
 )
 
