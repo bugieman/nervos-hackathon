@@ -8,4 +8,9 @@ Task 5
 3. screenshot of the console output immediately after checking your SUDT balance.
 ![image](https://user-images.githubusercontent.com/4203063/130370805-2052bf02-5c7e-47f5-9d22-5c14285748dc.png)
 
-The Ethereum address that was checked (in text format): 0x5B785cE883F47eAEaE2D03983466ae644DA99d57
+4. The Ethereum address that was checked (in text format): 0x5B785cE883F47eAEaE2D03983466ae644DA99d57
+
+Bonus: Get Layer 2 SUDT ID from Layer 1 SUDT Issuer Lock Hash (AKA SUDT Type Args)
+![image](https://user-images.githubusercontent.com/4203063/130370987-e581fa52-e5f5-4316-9890-c2e93f0746f0.png)
+
+SUDT ID:3330
